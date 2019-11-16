@@ -1,0 +1,114 @@
+Settings:
+  Kingdom of Man:
+    Dragon’s Lair:
+      - "You’re in your local dragon’s lair. The dragon is nowhere to be seen. What do you do? (The question to be answered by creating your character)"
+      - Dragon: power hungry, animal hungry, bored
+      - Dragonslayers: obsessed, self-righteous, bureaucratic
+      - Villagers: dirt poor, desperate, xenophobic
+    Dragon:
+      - Choose a color: 
+        - Red
+        - Gold
+        - Prismatic
+        - Undead
+      - Choose 3 things in the lair:
+        - A sentient weapon
+        - A dragon egg
+        - A trapdoor to hell
+        - The scion to the throne
+      - Choose 2 plots: 
+        - Kill all humans
+        - Remain power behind Kingdom of Man
+        - Establish forward operating base in Deep Under
+      - Choose 3 moves: 
+        - Kill somebody powerful
+        - Broker plots
+        - Foster conflict
+        - Make a champion from somebody mundane
+        - Bring something horrible up from the Deep Under
+   Dragonslayers:
+      - Itinerant band of famous mercenaries
+      - Have at least one conformed dragon kill
+      - Serve at the pleasure of the King of Man
+      - Arrogant, work only to slay dragons and slake their desires
+      - Comes in groups of 5 (Brutes, Hedgewizards, ex-Underfolk, Archers)
+      - Roam around the Kingdom following rumors of foreigners and dragons
+   Area:
+      - Lair: Hidden enterance to mega dungeon
+      - Darkwood: 1 days journey any cardinal, the soveriegn duke’s land
+      - Poachrode: Hidden bandit village, hunts game and dragonslayers
+      - The Communes: villages of landless peasants, lorded over sovereign duke
+      - Herzog: the Duke Werner’s palatial estate
+      - Deep Under: nobody ever returned and as far as we know it is the land of the dead
+  Darkwood:
+      - Evergeen forested mountain range. Peak is Woodsend, center of the wood
+      - Surplus mahogany, boar meat, travel to the Deep Under
+      - Easy to get lost, terrifying apex predators, hypervigilant protectors
+      - Bandits: fearful, opportunistic, straightforward
+      - Predators: Pick two - comes in packs, unusually large, ravenous
+      - Dryads: Charming, sympathetic, corruptible
+      - Underfolk: Coercive, ambitious, xenophobic ply trade with lore and labor 
+  Poachrode:
+    - Hidden trapped village in a clearing in the edge of the Darkwood
+    - Proud, melting pot, peasant community
+    - Not enough tents, not enough food, hunted by the duke
+    - Hunters: responsible, quiet, tactical
+    - Elders: persuasive, noisy, patriotic
+    - Cutthroats: ambitious, paranoid, hungry
+  The Communes:
+    - About two dozen Agricultural villages ranging 2 weeks journey each cardinal from the lair
+    - Fruits, vegetables, grains, honey, spirits, and basic crafts
+    - Weekly market towns in centroid of each town
+    - Varying names:
+      - <crop>ton (Appleton)
+      - <party member’s last name>’s Claim (Lopex’s Claim)
+      - <duke><horrible fate> (Wernergore)
+      - <tool>vale (Scythevale)
+      - <brewery or winery>run (Lompoc’s Run)
+    - Varying states:
+      - Pays taxes dutifully, is devastated by taxes, Is in tax revolt
+      - War stories from being drafted, completely decimated from the draft, everyone is in hiding or in revolt
+      - Open revolt against the duke, begrudgingly allied, begrudgingly against
+      - Free local trade, banditry against local trade, esoteric trade missions
+      - Starvation, completely dependent on trade, controls trade
+      - Caters to foreigners, persecutes foreigners, reports foreigners to the duke
+    - Most towns are comprised of the following:
+      - Villagers: Quiet, armed, furious, generous
+      - Layabouts: Loud, poor, curious
+      - Dogs: Narcs, connected, backbiting
+    - Herzog:
+        - Estate and fortified manor of Archduke Herzog
+        - Surplus of money, prestige
+        - No tolerance for rebellion or any untowardness to the Herzog line
+        - Site of The Counsel:
+            - Vizier: Archwizard, charms master, decadent, lazy, big fish in small pond
+            - Marshall: Patriotic, salt of the earth, easily convinced and brutish
+            - Steward: Hyperorganized, obsessed, conniving, murderous
+            - Chaplain: Drunk, unauthoritative, the bastard son
+            - Prince: Very young, incompetent, spoiled, next in line to Duchy and possibly Kingdom
+        - Werner:
+            - Travelling through Kingdom of Man: Drafting troops for the Immortal Company, trading of artistic masterpieces, taking Prince on coming of age tour through Kingdom
+            - Attending Counsel: Raise more taxes, plots to murder Prince’s brothers, get updates on Dragonslayers
+            - On warpath: Networking on Goldenforge battle lines, Pretending to be supervising the Dragonslayers, actually in the thick of battle in the Siege of Orcstead
+            - Debauching: with the Chaplain and the Vizier, in The Communes, all by his lonesome in the throne room
+  Deep Under:
+    - Literally the Underworld, cursed by all Gods alive and dead
+    - Nobody comes out alive
+    - Nobody knows the entrance
+    - It is filled with untold riches and horrifying arcane phenomena - the Deepest Under contains a Room that grants wishes to all whom pass the threshold 
+    - Actually 100 levels, and a 101st level has the Maker in a locked room.
+    - Use One Page Dungeon to generate https://watabou.itch.io/one-page-dungeon
+    - Trap table:
+        - Pocket fire plane
+        - Blackholes/vortexes
+        - Infinitely corrosive pools
+        - Cloudkill haze
+        - Blink tiles
+        - Menancing eldritch ink, spawns multiple traps
+        - Moss that rusts metal, necrotized flesh
+    - Monster table:
+        - Villanious Underfolk bandit villages (Crazy evil cult like humans)
+        - Slatespace Deep Dwarves, Earth Elementals, Gnome, Earth Genasi strongholds
+        - Mind Flayer or Githyanki knights, Drider or Slaad mounts
+        - The Black Mold Empire
+        - Devil Trader and Tax Collectors
