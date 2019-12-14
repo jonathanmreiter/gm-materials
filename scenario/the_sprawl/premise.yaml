@@ -1,3 +1,8 @@
 Settings:
   Crimson City:
-    
+    Hot Zone:
+      - "You're in an armored van, and you discover bodies in the back. You hear sirens coming your direction. What do you do?"
+      - Johnnies: Gendarmes. By the book, tired, looking for a cut, not ready for a chase
+      - Apex Frontiers: Astro cybernetics corp. Professional, overcommitted, unlikeable
+      - Eight Fivers: Local gang. Authentic, ramshackle, sociable, radical
+      - GABAPwn: Malware/corrupted hacker collective. Crude, psychotic, hedonistic, 

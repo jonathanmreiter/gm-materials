@@ -8,23 +8,24 @@ Settings:
     Dragon:
       - Choose a color: 
         - Red
-        - Gold
+        - Gold*
         - Prismatic
         - Undead
       - Choose 3 things in the lair:
         - A sentient weapon
-        - A dragon egg
+        - A dragon egg*
         - A trapdoor to hell
-        - The scion to the throne
+        - The scion to the throne*
+        - Panacea*
       - Choose 2 plots: 
         - Kill all humans
-        - Remain power behind Kingdom of Man
-        - Establish forward operating base in Deep Under
+        - Remain power behind Kingdom of Man*
+        - Establish forward operating base in Deep Under*
       - Choose 3 moves: 
-        - Kill somebody powerful
-        - Broker plots
+        - Kill somebody powerful*
+        - Broker plots*
         - Foster conflict
-        - Make a champion from somebody mundane
+        - Make a champion from somebody mundane*
         - Bring something horrible up from the Deep Under
    Dragonslayers:
       - Itinerant band of famous mercenaries
@@ -84,13 +85,17 @@ Settings:
             - Vizier: Archwizard, charms master, decadent, lazy, big fish in small pond
             - Marshall: Patriotic, salt of the earth, easily convinced and brutish
             - Steward: Hyperorganized, obsessed, conniving, murderous
-            - Chaplain: Drunk, unauthoritative, the bastard son
+            - Bishop: Drunk, unauthoritative, the bastard son
             - Prince: Very young, incompetent, spoiled, next in line to Duchy and possibly Kingdom
         - Werner:
             - Travelling through Kingdom of Man: Drafting troops for the Immortal Company, trading of artistic masterpieces, taking Prince on coming of age tour through Kingdom
             - Attending Counsel: Raise more taxes, plots to murder Prince’s brothers, get updates on Dragonslayers
             - On warpath: Networking on Goldenforge battle lines, Pretending to be supervising the Dragonslayers, actually in the thick of battle in the Siege of Orcstead
             - Debauching: with the Chaplain and the Vizier, in The Communes, all by his lonesome in the throne room
+    - Elven Ruins:
+        - Former forest
+        - Temple to the Goddess
+        - Has laws of the lands, specifically about the relations between Elves and Humans
   Deep Under:
     - Literally the Underworld, cursed by all Gods alive and dead
     - Nobody comes out alive
