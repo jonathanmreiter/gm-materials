@@ -63,16 +63,17 @@ Settings:
     - Varying names:
       - <crop>ton (Appleton)
       - <party member’s last name>’s Claim (Lopex’s Claim)
-      - <duke><horrible fate> (Wernergore)
+      - <council member><horrible fate> (Wernergore)
       - <tool>vale (Scythevale)
       - <brewery or winery>run (Lompoc’s Run)
+      - <day of the week><ritual name> (One Sacrifice)
     - Varying states:
-      - Pays taxes dutifully, is devastated by taxes, Is in tax revolt
-      - War stories from being drafted, completely decimated from the draft, everyone is in hiding or in revolt
-      - Open revolt against the duke, begrudgingly allied, begrudgingly against
-      - Free local trade, banditry against local trade, esoteric trade missions
-      - Starvation, completely dependent on trade, controls trade
-      - Caters to foreigners, persecutes foreigners, reports foreigners to the duke
+      - Pays taxes dutifully, is devastated by taxes, Is in tax revolt*
+      - War stories from being drafted, completely decimated from the draft, everyone is in hiding or in revolt*
+      - Open revolt against the duke, begrudgingly allied, begrudgingly against*
+      - Free local trade*, banditry against local trade, esoteric trade missions
+      - Starvation, completely dependent on trade, controls trade*
+      - Caters to foreigners*, persecutes foreigners, reports foreigners to the duke
     - Most towns are comprised of the following:
       - Villagers: Quiet, armed, furious, generous
       - Layabouts: Loud, poor, curious
@@ -113,7 +114,7 @@ Settings:
         - Moss that rusts metal, necrotized flesh
     - Monster table:
         - Villanious Underfolk bandit villages (Crazy evil cult like humans)
-        - Slatespace Deep Dwarves, Earth Elementals, Gnome, Earth Genasi strongholds
+        - Drow, Slatespace Deep Dwarves, Earth Elementals, Gnome, Earth Genasi strongholds
         - Mind Flayer or Githyanki knights, Drider or Slaad mounts
-        - The Black Mold Empire
+        - The Death Mold Empire
         - Devil Trader and Tax Collectors
