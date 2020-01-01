@@ -1,0 +1,105 @@
+Settings:
+  Invell:
+    Pirate Ship:
+      - "You're the crew of a pirate airship. The captain has just been killed. A call from the crow's nest comes down that the flagship pirate hunter of the local authorities has crested a fogbank and is ten minutes from engagement. What do you do?"
+      - Crew: fearful, chaotic, selfish
+      - Pirate Hunters: boastful, state of the art, legalistic (roll to see their allegiance, or default to Hegemony)
+      - Local Pier: Roll or choose from locales below 
+      - Remote Pier: Roll or choose from locales below
+    Ship:
+      - If there is a Captain, or any other playbook with a ship, it is their ship, it's just on them to marshall their crew.
+      - Otherwise:
+        - The ship isn't yours, but it might serve your whims.
+        - It's a Large Flying Ship with a crew of 3-4 dozen.
+        - Everyone wears many hats to get things going, but there are still cliques by station
+        - Pick a name: Sajal, Hava, Topi, Saila Bana
+        - Pick two upsides:
+          - It's comfortable and can support much more crew
+          - It is well stocked for trade and for self-sustenance
+          - It can prove its mettle in combat and it looks that way
+          - The captain's quarters are stocked with ages of gazetters and astrolabes and other useful navigation equipment
+          - The ship and its crew is famous and well liked - everyone will come to the harbor when it is moored
+          - It is supernaturally expedient in voyage and in navigating hazardous winds
+        - And secretly roll the crew's morale:
+          - Mutiny and broken into factions
+          - Shattered, depressed, and looking to disband
+          - Unphased, but likely only due to the shit they've seen
+      Factions:
+          - First Mate: Aligned with first mate, cruel and power hungry
+          - Salty Dogs: Professional, cynical, driven by reason
+          - Fresh Meat: Unprofessional, driven by ambitions and their sins
+    Outpost of Paripurna:
+      - A massive stalactite with spiraling roads, outpost bored into it and into the whole of the crust
+      - Smells musty, feels dangerous - hair stands at end even in the mundanity
+      - Tourism starved
+      - Inaccessible, and hosting an even more inaccessible Walker mission
+      - Launching a ship is a dangerous task, which requires help from crust based assets
+      Stats:
+        - Needs people, is in deciline
+        - Moorage is extremely difficult, may require alternative passage
+        - People come for trade - rare artifacts, rich cultural history in network of tunnels into Worldcrust
+        - Most proud of age - longest lived city
+      Factions:
+        - Townies: stubborn, generous, dug-in. 
+        - Outcasts: sociable, selfish, violent
+        - Monks: quiet, xenophobic, knowledgeable, spiders
+    Hidden City of Anansi:
+      - Deep in tunnels
+      - Stockpile of arcane relics
+      - Stolen from Dragons
+      Factions:
+        - Scientists:
+        - Monks:
+        - Dragon Cult:
+      Stats:
+        - Anansi doesn't have rooms or buildings or furniture - it's just a series of tunnels
+        - Arcane items, research equipment, spiders
+        - Traversing dangerous crust surfaces
+        - Loud noises forbidden
+        - Sounds may be the cause of geological events, or a catalyst for things awakening in the crust
+    Cloud City of Cikhala:
+      - Very deep in the cloud seas
+      - Mobile
+      - Built atop a massive Jannah - a solid cloud
+      - Ancient homeland of the Djinni
+      - Contains the Tower of Doors, an art installation rumored to have a bridge to Sola
+      - Contains Etemenanki, a massive corporate slate obelisk financial office and temple
+      - Pilgrimage site for many religions
+      Stats:
+        - Trade in religious devotionals, oaths, miracles, service as vestal
+        - Quantitative measures of piety are collated, traded, and resold by scribes at Etemenaki
+        - Rumored to be hard to travel to because the Priests of Etemenanki can dictate the winds from Sola
+        - All religious and lay laws of all guests are observed simultaneously, and contradictions are resolved through tithing.
+        - Known for sponsoring extremely indulgent treasure fleets
+      Factions:
+        - Djinni:
+        - Lamashtu Coven:
+        - Etemanki Priesthood:
+        - Ordinators:
+    Great Nation of Hegemony:
+      - Autocracy of a hundred islands circling the metropolis of Hold, mostly split among nations of elemental daemons
+      - Physically chained together with interlocking parcels of land (guard posts, ziggarat town squares)
+      - On actual land mass are Executive Offices
+      - Capital run mostly by automata
+      - Satellite nations are individual powers who joined to gain knowledge of automata themselves (Companies)
+      - Nobody knows of the race that acts as the Executive
+      Stats:
+        - All manual labor is carried out by constructs, specialized per Company
+        - Bound together by existential fear of World Eater has awoken, rain of debris from the constructs
+        - Automata are scarce, so more work as multiplexed machines
+        - Automata scarce due to lack of steam - need more facilities to create steam, need more fuel (conventional, arcane)
+      Factions:
+        - Kappa: 
+        - Oni:
+        - Tengu:
+        - Bodhis:
+        - Executives:
+    Kappahome:
+    Onihome:
+    Tenguhome:
+    Bodhihome:
+    
+
+    
+    
+    
