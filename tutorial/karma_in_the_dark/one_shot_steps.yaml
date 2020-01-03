@@ -1,0 +1,204 @@
+- Instructions
+  1. Player Creation
+    - via playbooks
+    - Pick a soul (cyber, magic, mortal)
+    - Pick a playbook from soul
+    - Pick 2 end of session xp triggers
+    - Pick archtype
+    - Fill in 4 more action dots (max 2 to any one category)
+      - See the action descriptions for help
+      - See pg 77 for attribute details -> well rounded means good defense, poor offense, determines dice pool
+    - Heritage
+    - Label
+    - Record relevance markers
+      - Decide if character is advantaged or oppressed per marker, sum up for relevance score
+      - High relevance is high efficency, high stress (see page 79)
+      - Be sure to get jaded instincts
+    - Rebellion
+      - Sell out mechanism, like team ideal
+    - Personal code
+      - Act in this way xp
+      - Or sell out
+    - 3 contacts (1 negative w/ 2 grudges, 1 postive w/ 2 bonds, 1 neutral)
+      - Examples on pg 82-83
+  2. World Creation
+    - Pick team type (pg 12-13, 55)
+      - Will determine your Runs
+    - Pick 3 relevance markers (pg 40-41)
+      - Pick whether it defines "advantaged" or "oppressed"
+      - Determines what makes social status
+      - For a situation if qualifier fits, +1
+      - More effective, less stress
+    - Pick neighborhood (pg 49)
+    - Create factions (pg 51)
+      - Try to do 5
+      - Can suggest a couple based on materials
+      - Faction has a Circle and collectively defined motivation, method, and reputation (pg 52)
+  3. Team Specifics
+    - Validate team type (pg 12-13, 55)
+    - Choose safehouse (pg 56-59)
+    - Choose safehouse upgrade (pg 60-63)
+      - Neighborhood defined by community, resources, security, and space
+      - Each trait has rating, equal to upgrades in area divided by 2
+      - Dice pool used for upgrades, entanglements, and faction actions
+    - Choose first team special ability (pg 63)
+      - Based on team type
+    - Choose ideal (pg 63)
+      - Helps fill conformity tracker
+      - Defines endgame
+      - When you take a move that goes against your ideal, you gain super powers, but you sell out
+    - Choose initial ambition (pg 66)
+      - When you work towards an ambition, gain xp
+      - Change each session, if wanted
+      - See pg 110+ for details
+    - Choose starting rep (pg 67)
+      - When your rep precedes itself, gain xp
+      - Change or add each session, if wanted
+    - Choose a team name
+    - Choose initial agent relationships (pg 68)
+      - NPCs
+      - Traits based on the faction (3-7 - bosses)
+      - Pick two factions, make an agent contact for each faction based in your safe house hood
+      - Pick a relationship history that is net non-positive
+    - Set relevance to 0
+      - Relevance increases each time you secure the highest level contract with a circle
+  4. Campaign Threat
+    - Abstract out through tables
+    - Map threat to NPCs/factions
+    - End session with impending doom (pg 105)
+  5. Factions
+    - Start with 3 relevance, can go to 7
+    - Factors: prevasive, consuming, protective, trendsetting
+    - Drones - throw away NPCs
+    - Agents - bosses
+  6. Rolls
+    - Contact roll -> good contacts -> roll dice CONTACT (pg 132)
+    - Hostile roll -> grudges (pg 133)
+      - Glitch
+      - Frame
+      - Run their mouth
+  7. Phases
+    - Prep:
+      - Mission Selection (see pg 142-143)
+        - This is negotiated between players and GM
+        - Define success - specific things
+        - Determine pay for downtime - see job descriptions
+      - Legwork Phase:
+        - Research and prep
+        - Each PC gets 2 actions
+        - These can be JIT'd in mission -> flashback!
+        1. Define an obstacle
+          - Brainstorm obstacles
+          - Assign clocks to each obstacle -> more means more prep necessary
+          - Each player can opt to do legwork against obstacle using project roll (pg 145)
+        2. Help a contact
+          - Ways to mitigate contact relationship damage that might have happened during mission (pg 145)
+          - Again, might want to be done in flashback if not certain if damage will occur
+        3. Identify paydata
+          - Extra opportunities to cash in
+          - Only one opportunity per prep, although people can work together
+      - Plan Type
+        - How to approach mission
+        - Fill in the missing detail (pg 147)
+        - Can roll gather information as needed
+      - Loadout:
+        - Light/normal/heavy loadout
+        - 3/5/7 checks of item
+      - Engagement:
+        - GM cuts to action
+        - 1d with modifiers (pg 148)
+        - Approach is defined by engagement outcome
+    - Mission Phase:
+      - Obstacle -> Action -> Obstacle, chipping away until goal achieved
+      - Position defines impact of failure (pg 155)
+      - Effect defines progress on obstacle clocks
+        - Modfieid by character or faction relevance, expertise, and press (pg 156-157)
+        - Character can push themselves (2 stress) to get +1 effect
+        - Contacts included
+      - Consequences based on failure (pg 160)
+      - Roll steps
+        - Player states goal
+        - Player choose action
+        - GM sets position, effect
+        - Add bonus die to pools
+          - Teammate assistance (1 stress -> +1d)
+          - Push yourself (2 stress -> +1d) or Sell Out
+        - Roll (6 success, 4-5 partial, 1-3 fail)
+      - Flashbacks
+        - Cost stress based on complexity (0-2, 1-3/4-6/8+ segments)
+        - Legwork flashbacks are free, as legwork tends to be low complexity
+      - Stress
+        - Can also add +1 to effect for 2 stress
+        - Can act when incapacitated for 2 stress
+        - Stressing out -> Jaded -> add jaded instinct -> can't react for number of jaded instincts they have in rolls -> reset stress to 0 -> 
+        - Flashback to character defining regret
+        - If maxed out on jaded instincts, PC leaves play and is NPC
+        - Also add an attitude when you first become jaded (pg 168)
+      - Resistance
+        - Negate consequences from action
+        - Roll attribute
+        - Suffer 6 stress minus highest die in pool
+      - Selling Out
+        - Hold sell out point, can bank up to 3.
+        - Spend to get +1d
+    - Downtime:
+      - Payoff: (pg 177)
+        - Faction favors
+        - Contact roll to push for more favors
+        - Favors are divided among PCs
+        - Change status with with contacts (pg 178)
+      - Heat:
+        - Team gains heat with faction based on exposure (pg 179)
+        - When heat maxes out, mark wanted, with roll over
+        - Decreasing notoriety could be a mission or a project
+        - Alternatively, you can burn a bond or relevance 3 contact or PC to get rid of wanted
+      - Entanglements:
+        - Pick faction that was not mission relevant, or create new
+        - Roll on table (pg 181-182)
+        - Bring up immediately or use as hold
+      - Dayjob:
+        - Team picks 1 special contract to fulfill in downtime for neighborhood agent
+        - Character can use professional skill 1 time
+        - Learn new skill by spending 2 favor
+        - Get an extra use by spending 1 favor
+      - Activities:
+        - Each character gets 2 activities (pg 185)
+        - Teammates can assist
+        - Favors can be spent to increase result level
+        - It's possible to work within or to develop a professional cohort (pg 188-190)
+        - Cohorts act kind of like gangs in AW, but also enable long term projects
+      - Factions Act:
+        - GM reviews factions and goals
+        - Alter goals based on mission results
+        - Agents will try to make progress on goals (pg 197-198)
+  8. Advancement Notes:
+    - Xp triggers (1 for meet, 2 for repeated)
+      - Playbook, personal code, rebellion, heritage, jaded, attitude
+    - Train downtime
+    - On advance, clear XP and choose a new special ability
+      - On same playbook
+      - On another playbook in the same soul (Cyber, Magic, Mortal)
+    - Attribute XP
+      - XP when making desperate action roll
+      - XP triggers
+      - Train
+      - When full, clear marks and add new action dot in any of the actions, up to 3 total unless otherwise specified
+    - Team advancement
+      - Options!
+      - Add new abilities, cultivate safe house neighborhood, add professional relevance
+      - Advance
+        - When you work towards a mission specialty, gain 1 xp, and when you finish, gain 2 xp
+        - Mark XP if helped neighborhood
+        - Gain XP if you fit rep
+        - When you work towards team goal, gain 1 xp, and when you finish, 2 xp
+    - Campaign advancement
+      - Players define resistence pattern, with conformity alongside
+      - End of session - group reviews conformity trigger
+      - Triggers add to corruption, minus resistance (1 instance 1 mark, multiple 2 marks, per trigger)
+      - Exceeding threshold leads to new corruption power, and a new threshold in campaign (pg 206-212)
+- Printables
+  - Playbooks (except antihero)
+  - Moves
+  - Neighborhood track
+  - Faction track
+  - Campaign track

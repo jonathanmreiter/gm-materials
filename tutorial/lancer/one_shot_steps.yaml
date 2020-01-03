@@ -1,0 +1,155 @@
+- Player Creation
+  - Prefer to use companion
+  - Do background
+  - LL0 stats
+  - Ability
+  - Player loadout
+  - GMS mech buildout
+- Session
+  - Resting and Repairs
+  - Narrative Play
+  - Sorties
+  - Downtime
+- Resting and Repairs
+  - Rest -> Allows for quick repairs based on rolls and abilities that require rests
+    - If no activity, heal half max HP, remove Down and Out
+    - Full Rest is required to go back to max HP
+  - Full repairs -> Must have 10 hours
+    - Rebuild from scratch
+    - Refresh all repair cap
+    - Clear heat
+    - Go back to full HP
+    - Regain all charges
+    - Can be obtained by power at cost roll
+- Narrative Play
+    - Consider to be the obstacles between sorties
+    - Consider to be the prep between sorties
+    - Defined as flowing skill checks
+    - Skill check:
+      - Goal -> Consequences
+      - Triggers
+      - 1d20 + triggers + accuracy + difficulty + teamwork (which can complicate failure)
+      - 9- failure, 10+ success
+        - Difficult = 10+ success, but with -1 modifier
+        - Risky = 10+ success, but always brings consequences if under 20
+        - Heroic = 20+ success
+      - Non-risky skill checks can be pushed - re-roll which bumps up challenge (normal -> risky -> heroic)
+    - Harm - normal (1-2), severe (3-4), deadly (6+)
+      - Armor reduces harm
+      - At 0, roll 1d6:
+        - 6 returns to 1 HP
+        - 2-5 down and out - 0 HP, pinned, stunned in mech (evasion -> 5), and dead from more damage
+        - 1 is dead
+- Sorties
+  - Immediately establish goal + stakes
+  - If it will change in situ, perhaps make it broader to keep from being unfair
+  - Prep:
+    - Choose mech
+    - Choose outfit (player and mech)
+  - Establish Reserves (pg 50-51):
+    - Gotten from downtime
+    - Can be gear, relations, information, any sort of useful assets
+    - Reserves can have material affects on skill checks, or any other stat
+    - They can be taken away or burned in the course of a mission
+  - Boots on the Ground:
+    - In media res
+    - Could be narrative within mission
+    - Not all missions imply combat, with mech or otherwise
+    - However, throw the hex map up once mech aggression comes down
+  - Debrief:
+    - Level up (end of mission always increases License Level)
+    - Talk about mission
+- Downtime
+  - Represents free time off mission, without immediately established obstacles
+  - I think we will invoke it whenever players don't want to immediately address a threat, but instead need to play the waiting game
+  - Thus trade off is:
+    - Narrative can be used to focus on Sorties, and affect direct change faster
+    - Downtime is more likely to bring in diverse reserves that are input intensive
+  - Downtime Actions are a thing (pg 53-55)
+    - Everyone makes one roll usually
+    - See linked pages above
+- Rolls
+  - Skill checks
+  - Attacks (Mech)
+  - Saves (Mech)
+  - Bonuses - accuracy (+1d6 to roll), difficulty (-1d6 to roll), triggers (+1d6 to roll), grit (+1)
+  - Background can be invoked to add a accuracy or difficulty on skill checks
+  - Triggers are always +2/+4/+6
+- Combat Mechanics
+  - Procedure
+    - Start - declare combat, show the map (visible parts), explain the map, explain the situation
+    - Turns -> Round
+    - End of combat is judged when objective is carried out and characters disengage
+  - Turns and Rounds
+    - Players act first -> they can nominate someone, but the order doesn't have to be consistent between rounds
+    - After one player acts, an NPC of GM choice acts
+    - Continues until everyone has taken an action
+  - Actions (pg 61)
+    - Probably requires printing these out as cards
+    - 1 standard move + (2 quick OR  full action)
+      - Standard - speed based move -> maneuvering
+        - Move
+      - Quick - momentary actions -> pressing a button (pg 69-70)
+        - Boost
+        - Grapple
+        - Hide
+        - Quick Tech -> Bolster, Scan, Lock On, Invade (each count for duplication)
+        - Ram
+        - Search
+        - Skirmish
+        - Prepare
+        - Self-Destruct
+        - Shut Down
+        - Eject
+      - Full - directed choices -> unloading a barrage (pg 71)
+        - Barrage
+        - Disengage
+        - Full Tech
+        - Improv Attack
+        - Stabilize
+        - Boot Up
+        - Skill Check
+        - Mount/Dismount
+        - Fight (on foot)
+        - Jockey (on foot)
+      - Reaction - special split second reactions that can be done out of turn
+        - Brace
+        - Overwatch
+      - Free - special mech systems or talents -> boosting, even multiple times
+        - Protocol
+    - No duplication in moves EXCEPT for free actions and reactions
+      - Overcharge - once per turn, take Heat to get an extra quick action
+    - Movement (pg 62-63)
+      - Standard
+      - Move hexes equal to Speed
+      - Can be split up between actions, allowing the actions to fully resolve (i.e. no move + full action + move)
+      - Obstruction just like DnD
+      - Hostile adjacency -> Engaged (+1 Difficulty) and immediately lose all movement
+      - Move at half speed in difficult terrain
+      - Engineering check if moving into dangerous terrain -> failure is 5 damage per round
+    - Attacks (pg 64-)
+      - Style of attack
+        - Melee -> threatened -> 1d20 + grit + accuracy + difficulty vs. Evasion
+        - Ranged -> range and LOS -> 1d20 + grit + accuracy + difficulty (-engagement -1|2 for cover) vs Evasion
+        - Tech -> sensors and LOS -> 1d20 + tech attach + accuracy + difficulty vs E-Defense
+      - Crits double damage dice
+      - Attacks have patterns, just like DnD spells
+      - Threat is basically maximum range (For both attacks and Overwatch)
+      - Adjacency is needed for hard cover, as is lesser mech size
+    - Damage
+      - Burn ignores armor, is is cumulative (damage -> mark burn -> check at end of turn to see if additional damage)
+      - Armor -> HP pool -> structure damage check -> structure hit -> HP reset -> destruction
+      - Structure check:
+        - 1d6 per structure damaged cumulatively, pick lowest result on table on page 80
+      - Heat -> Heat cap -> stress + overheating check -> heat cap reset -> reactor meltdown
+      - Overheating check:
+        - 1d6 per stress damage marked, pick lowest result on table on page 8
+      - Stabilize actions can reduce heat
+      - At halfway of heat cap, Lancer in danger zone, is clearly red hot
+      - Destroyed mechs can be repaired using 4 repairs.
+    - Overcharge
+      - Once per turn -> another quick action, even those already done
+      - Take heat until full repair (1/1d3/1d6/1d6+4)
+    - See reference at page 76
+  - Conditions -> see reference on page 77-79
+
