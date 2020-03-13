@@ -1,0 +1,82 @@
+Settings:
+  Varna:
+    Summary:
+      - Like Hotline Miami, but in a dark medieval fantasy world
+      - Varna is in a simmering war with Gotberg, apocalyptic in nature
+    Order of Operations:
+      - Ask players which scenario
+      - Make characters
+      - Start in media res
+      - Offer mission and 3 sides 
+        - See side table
+      - Final Confrontation
+    Scenarios:
+      Hunters:
+        Summary:
+          - Hunt down and eradicate a death cult that threatens a general panic
+          - Death cult - men wearing skeletal masks of animals
+          - Hotline Miami
+        Base:
+          - Safe house
+          - Constantly under attack
+          - Initially, the first place the players assault
+        Conditions:
+          - Uproot and stop their syndicate (drugs, dark magic, necromancy)
+          - Decimate their membership
+          - Final stand against their armored base
+          - Economic points, membership points (not hidden)
+          - Popularity score (hidden) - if their ops aren't foiled
+          - Popularity is check 24h after latest offer mission
+          - Lose if popularity maxes - party is hunted, exiled, Gotberg coups Varna, etc.
+        Missions:
+          - Get Base
+          - Defend Base
+          - Change Base
+          - Foil drug deal
+          - Foil dark ritual
+          - Seize assets
+          - Assault barracks
+          - Perform deception to buy time
+        Final Confrontation:
+          - Need intel where
+          - Chancellor of Gotberg (Lich)
+          - Assault his hidden necropolis
+      Besieged:
+        Summary:
+          - Fight off the dark forces that surround and destroys the city, district by district
+          - Dark corrupting forces are prototypical men
+          - XCOM, La-Mulana
+        Base:
+          - Central fortress
+        Conditions:
+          - Attacks come in every week
+          - They escalate in DC relative to party every week
+          - An attack can lead to three outcomes (not hidden)
+            - Fortified (will never again be attacked) 
+            - Sacked (Can be attacked, and cannot be used for side missions)
+            - Conquered (Can be origin for subsequent attack)
+          - Saving a district requires fighting through 1d4 buildings and 1d6 streets
+          - If all city areas are fortified, city is saved
+          - But final confrontation remains, requires expedition to The Titaness
+        Missions:
+          - Fortify grounds
+          - Repel attack
+          - Assault FOB
+          - Cut off supply lines
+          - Encirclement assault
+        Final Confrontation:
+          - Roll where The Titanness is
+          - Party makes an expedition to the area
+          - Follows tracks of the corruption?
+            - Historical tracts
+            - Corruption of nature
+            - Villages of warriors
+          - Who are the corruption? First men.
+          - Kill the Titanness - mother of humanity
+            - Destroy the dungeon
+      Miasma:
+        Summary:
+          - Plunge underground and restore the city's lifeblood before everyone starves
+        Base:
+        Conditions:
+        Missions:
