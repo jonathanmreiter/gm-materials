@@ -12,11 +12,11 @@ Settings:
       - Why settle New Volga?
       - What is culture like among crew?
     Battlefield:
-      - Survivors: none, changed, only enemies
-      - Scrap to pick: none, dangerous ordinance, already claimed
-      - Vultures: none, alien, aggressors
-      - Aggressors: port defense, empire, alien, self
-      - Cause: mass delusion, in-fighting, cosmic anomaly
+      - Survivors: *none, changed, only enemies
+      - Scrap to pick: none, *dangerous ordinance, already claimed
+      - Vultures: none, alien, *aggressors
+      - Aggressors: port defense, empire, *alien, self
+      - Cause: mass delusion, in-fighting, *ambush
     Exelion:
       - Massive worldship
         - 500c warp drive on an unalterable course on the Kingly Road
@@ -32,11 +32,17 @@ Settings:
           - Neutrino point target + tachyon projection allows for hops of unlimited distance within the hyperbolic shape of space, bounded only by navigation direction
           - No weapons
           - Straying from initial tachyon projection, including subsequent hops, subjects those to time dialation effects.
+            - i.e. the further you get travel from mission origin, the more time passes on the Exelion
       - Systems down, but no major damage
-        - Pick one: sensors, comms, archives
-        - Pick one: guns, armor, fighters
-        - Pick one: helm, engineering, medical
-        - Pick one: colonists, cargo, AI
-        - Pick one: raiders, phagocytes, demons, rebels
-        - Roll one: allies, stow aways, civilization
-        - Roll one: altered course, low life support, ambitious crew
+        - Pick one: sensors, *comms, archives
+        - Pick one: guns, *armor, fighters
+        - Pick one: helm, *engineering, medical
+        - Pick one: colonists, cargo, *AI
+        - Pick one: raiders, *phagocytes, *demons, *rebels
+        - Roll one: allies, *stow aways, civilization
+        - Roll one: altered course, low life support, *ambitious crew
+    Previous Port:
+    Next Port:
+    New Volga:
+    Kingly Road:
+    Demiurge:
