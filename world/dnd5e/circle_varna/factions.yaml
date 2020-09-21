@@ -1,0 +1,26 @@
+Regional:
+  People's Union Hall
+  Baldur's Gate Watch
+  Stoneshields
+
+Continental:
+  Flaming Fist
+  Lord's Alliance
+  Living Axe
+  Church of Gond
+  Church of Ilmater
+  Harpers
+  White Company:
+    Ranks:
+      - Freebooter
+      - Lancer
+      - Jack
+      - Steward
+      - Capo
+    Possible missions:
+      - Persuade a valuable soldier to join - deserter, prisoner, hold out in a competing crew
+      - Convince an organization to bankroll the White Company
+      - Precipitate a civil war
+      - Recon an enemy element
+      - Perform a census of a remote White Company holding
+      - Ransom a powerful person
