@@ -1,14 +1,85 @@
-Bloodfury Axe
-+2 weapon at level 10
+Bloodfury Axe:
+- Rare
+- +1 weapon at level 5
+- +1 for every level past 5 up to +3
+- Takes the form of handaxe, battleaxe, or greataxe
+Handaxe:
+  - Returning property
+  - Level 5 ego (loyal, but obstinate)
+Battleaxe:
+  - Smashing - when attacking inanimate objects with this axe, add +5 to the attack roll or athletics check
+  - Level 10 ego (honest, but wrathful)
+Greataxe:
+  - Oversized - this weapon deals 2d8 damage instead, but attack is at -2 penalty
+  - Level 15 ego (ambitious, but delusional)
 
-Kris of Bhaal
-+2 weapon at level 10
+Kris of Bhaal:
+- Rare
+- Dagger
+- +1 weapon at level 5
+- +1 for every level past 5 up to +3
+- Level 10 ego
 
+Shield of the Hidden Lord:
+- Legendary
+- Shield
+- Attunement
+- +1 shield at level 5
+- +1 for every level past 5 up to +3
+- Protection froma arrows, tongues
 
-Gold shield -> Shield of the Hidden Lord
-  +1 shield at level 5, +1 for every level past 5 up to +3
-  attunement
-  protection froma rrows, tongues
+Bookbag of Holding:
+- Uncommon
+Cousin of the Bag of Holding. A worn leather and very wrinkled bag that appears at first to be something of a cubic sleeping bag. Can be extended up to 4 feet, at a time, with the rest of the bag wrinkling up. It cannot be physically extended more than 4 feet at a time, but if it were, it would be 500 feet long. Each face of the bag interior contains a small bookshelf, holding 500 books each. Thus, it can hold 2,000 books total, with at most 20 books accessible at a time. One can access and/or stretch the Bookbag with an action. The Bookbag cannot be turned inside out, and will never spill its contents when upended. In all other aspects, it is identical to the Bag of Holding.
 
-Bookbag of Holding
-  Cousin of the Bag of Holding. A worn leather and very wrinkled bag that appears at first to be something of a cubic sleeping bag. Can be extended up to 4 feet, at a time, with the rest of the bag wrinkling up. It cannot be physically extended more than 4 feet at a time, but if it were, it would be 500 feet long. Each face of the bag interior contains a small bookshelf, holding 500 books each. Thus, it can hold 2,000 books total, with at most 20 books accessible at a time. One can access and/or stretch the Bookbag with an action. The Bookbag cannot be turned inside out, and will never spill its contents when upended. In all other aspects, it is identical to the Bag of Holding.
+Crabcracker:
+- Rare
+- Greataxe
+- +1 weapon
+- Attunement
+- Critical hits occur on a roll of 19. Does not stack with Improved or Superior critical.
+- While grappling, this weapon may do 1d6 damage to the grappled enemy once per turn
+
+Raven Queen's Chessboard:
+- Very Rare
+- Attunement
+- Gives you proficiency with a game of choice, or doubles the bonus if you are already proficient.
+A chessboard (or a game of DM's choosing). The board is made of obsidian and platinum in muted colors, and has figurines that represent various shadar-kai nobility (pawns are kithguards, king is Kithlord Periam), culminating into the Raven Queen herself (i.e. as the queen of the set). When you die, you find yourself in a comfortable mute parlor in the Fortress of Memories. You may play this game of choice with a pair of ravens, who are themselves masterful. Make a DC 30 skill check for that game. While you are playing, your corpse is under the obvious effects of Gentle Repose for 1d20 hours, which represents the duration of the game. On success, at the end of your Gentle Repose, you are True Resurrected.  If you fail or opt out of the game, the ravens show you around the fortress to your eternal fate. In either case, you lose possession of the Chessboard. It remains in this unknown parlor for someone to chance upon.
+
+Rosary of the True:
+- Rare
+- Attunement
+- 3 daily charges on any:
+  - Detect Secret (per Wand of Secrets)
+  - Shield of Faith
+  - Zone of Truth
+- DC25 strength unknots (destroys, 30' DC17 dex or take 5d10 radiant damage)
+A delicate looped chain ending in a tiny gauntlet. The fine links belie that they are completely indestructible. Knots in the chain indicate charges, and they wrap as the attuned pray to Torm at dusk, and unwrap as they are expended. The gauntlet itself is used as a cursor for its effects, e.g. pointing to secrets within 30 feet. Pulling apart knots is not recommended. Should one succeed (DC25 Strength), the rosary explodes in a shockwave of radiant energy.
+
+The Betweenmeals Set:
+- Uncommon 
+A tarnished mostly missing silverware set, with at least one full pair of cutlery, plates, bowls, platter, and cover. Once per day, when a creature grasps the cover and speaks a trigger word, a single course for four appears on the platter, and can only be eaten with pieces of the Set. The food is of a quality befitting a Wealthy lifestyle. While the contents can vary depending on the trigger word, it is always edible and fills creatures who eat it (read, counts against exhaustion), albeit with a strange tin-like aftertaste that lingers. DC 14 Investigation proves that this meal is not of this world, but seemingly edible and safe. The tarnish from the Set can be magically cleaned - if so, this enchantment is gone forever.
+
+  Trigger words:
+  1. "Supper's ready" - a Sunday roast or Welsh rarebit or stewed parsnips.
+  2. "Tea time" - a pot of darjeeling, watercress sandwiches, graham flour biscuits
+  3. "Vittles, maties" - seaweed stew with hard tack, 4 flagons of watery grog, marlin fillets
+  This is not a fully inclusive list, have fun guessing what other phrases might exist
+
+Helm of Torm:
+- Rare
+- Attunement
+- +1 AC
+- You may cast Divination at will for no material cost, but at the cost of 1 fatigue level. This can be negated if done just previous to a Long Rest.
+- When you don this for the very first time, you tap into expressive visions that shake you to your core
+
+When the PC puts on this Helm for the first time, make a DC20 Intelligence Saving throw. They percieve 1d4 of the following sites, and on a success, they remain conscious and can use the visions to get an circumstantial advantage to a roll.
+- You see a soldier with the crest of Elturel. Bloodied, grasping a greatsword glowing white with holy vengenance. Then, you see that sword fall. From it springs an alabaster palace. This was the sword of Zariel, and it is the key to freeing Elturel from its chains.
+- An army of the undead, marching on a cathedral of Torm, and a feeling of utter dread as you see shadows of the dead feasting upon the living
+- You are 4 some-odd stories above Elturel. You see infernal chains holding the island aloft the River Styx. Your vision pans close along the chains. Each link is 30 feet long, 20 feet wide, and made of dense infernal iron that radiate a dark heat. They are stippled with long sturdy barbs like handholds. Down the chain you go, 500 feet, perhaps 5 minutes of arduous climbing. Your eyes stop at the chains end - a dark post also 4 stories above a roiling battlefield. Demons and devils fighting ten deep on the silty banks of the Styx. You feel eerie tranquility at the heights affored by this post.
+- A fortified compound sits atop a low plateau that rises out of a crater-pocked landscape. At the center of the compound is a hill of rust-colored stone that resembles a hand clawing out of the ground, with gaps between the fingers. A jagged wall made of rock, bones, and metal debris surrounds this hand-shaped hill. Off in the distance, a fort. On the gatehouse, cretinous figures wearing caps soaked with fresh blood. On the walls, platoons of Kenku, two of which that strike you as strangely familiar. They sort through trash. Behind them, seated on a coach, torn fabric and bare springs, is a kindly old grandmother, who for a brief moment locks eyes with you, raising the hairs on your neck.
+- A blood red hill, spotted with spire-like iron trees. A man is impaled through one. He twitches with agony. A Narzugon patrols nearby, sporting the standard of Zariel.
+- You're in a hive. The walls are a beautiful translucent amber, and made of a fine papyrus like gauze, but covered in sticky smelly substance. You suddenly realize there's droning coming from the walls and before you know it, there are bees everywhere, and they are the size of sedans.
+- You're on a lake shore. Bearded devils burn alien looking trees amidst ditches filled with corpses of bizarre birds of all sizes, including a few plump chickens.
+- You're blinded instantly. The white light fades, and you see it issueing oujt a massive monolith shaped like a tuning fork. From the unspeakably bright mote of pure light, you hear the sounds of panicked neighing, like from a horse on fire.
+- A massive iron structure that appears to be a pair of docking arms straddles the River Styx and extends out over it. Hefty clamps, chains, and bars are fixed to the docking arms to lash large vessels between them. It's 100 feet high, jutting out of the cliffs near the River Styx. Devils litter the area, noisly pushing barrels down the long stairs of the facility to a glass dome that dips up and down within the river styx.
