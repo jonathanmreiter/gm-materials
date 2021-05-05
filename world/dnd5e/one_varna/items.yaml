@@ -89,80 +89,16 @@ Talisman of Zariel:
 - Made of infernal metal
 - Binds Elturel to Avernus
 - If someone of sufficient will uses this -> Recoils Elturel into Avernus, and then binds it as part of the surface
-- Becomes inert in Bel's forge, and can be re-forged into an artifact of the player's choosing
 - Irreversible
 - Covered in another pillow case
-
-Outrigger in a Bottle:
-- Uncle Irvil Stahnhauser
-- A Soul Coin, molded into a delicate ship (fungible as one). Radiates a comforting orange light when excited or calm.
-- Contains soul of the most cowardly person the party knows, who can communicate with telepathy (120ft)
-- As an action, transforms into the Life Preserver infernal machine. 
 
 Dry Ice potion:
 potion of frost giant strength
 
-Stygian Repeater:
-  - Very Rare
-  - A recurve heavy crossbow with a deep channel in its bore and into its heavy adamantine handle. One red crank brings 3 bulezau sinews taut. One blue crank fires all sinews in rapid succession. It flings molded bolts of Stygian river water that issue forth from the Amnizu bones within the core of the weapon
-  - +2 Heavy Crossbow of Repeating
-  - Attunement
-  - Contains 3 charges, all 3 of which recharge with a long rest
-  - This weapon does not use bolts and does not require ammunition. Instead, when you may attack with it using Extra Attacks for each remaining charge the weapon possesses. When the Repeater is empty of charges, it may not be used to attack.
-  - As an action, user can tap into the Amnizu arm core of the bow to discharge a coherent bolt of necrotic energy, temporarily depleting channels as a result, and performing the below ability
-  Discharge Core: 
-    - Spend one or more charges to fire a dazzling, unctuous maroon ball of pure necrotic energy.
-    - 60' range, 0 ft radius
-    - Each target in affect must make a DC17 Intelligence saving throw
-    - On fail, each target takes 2d12 necrotic damage, and is blinded until the start of your next turn
-    - On success, each target takes halved necrotic damage (1d12)
-    - For each additional charge expended for this action, increase radius by 5', Save DC by +1, and damage by 1d12
-    Formula:
-      - 1c - 0ft radius, DC17, 2d12 damage
-      - 2c - 5ft radius, DC18, 3d12
-      - 3c - 10ft radius, DC19, 4d12 damage
-
-The Big Gulp:
+Peryroyal's Bauble:
 - Uncommon trinket
-- Holds an unfathomable amount of fizzy drink in impervious, spill proof containment.
-- As an action, you may pour one potion into the Big Gulp, or quaff it. When quaffed, it produces the effects of each of the last three potions poured into it.
-It starts with 3 random potions within it.
-
-Imp Cane:
-- Very Rare 
-- Attunement
-- +2 club. On hit, does +1d4 necrotic damage
-- Summon Imps:
-  - Once per day, while holding it, you can use an action to conjure 1d4 Imps in unoccupied spaces within 90 feet of you. 
-  - The conjured Imps are friendly to you and your companions for duration 
-  - Roll initiative for the Imps, which has its own turns. 
-  - It obeys any verbal commands that you issue to it (no action required by you). 
-  - If you don't issue any commands to the creature, it defends itself from hostile creatures but otherwise takes no actions. 
-  - The Imps are no longer friendly as soon as they drops to 0 hit points or after 1 hour, whichever comes first. 
-- Imp-plosion:
-  - This effect is revealed to any wielder who passes a DC 27 Investigation check.
-  - An Imp may not use an action to Summon imps, instead, they can use Imp-plosion, cracking the Cane in two and forever destroying it.
-  - On use of this action, the Imp summons 500 combined HP worth of any combination of Devils within 300 feet of them.
-  - The conjured Devils are friendly to the Imps and whomever they are fiendly with, for the duration
-  - As above, roll initative, and they obey commands both verbally and telepathically, and they are only guaranteed to be friendly for their death or 1 hour, whichever comes first.
-  - Devil HP:
-    - Imp - 10
-    - Lemure - 25
-    - Bearded Devil - 50
-    - Merregon - 50
-    - Nergalid? - 50
-    - Chain Devil - 75
-    - Cambion - 100
-    - Orthon? - 100
-    - Barbed Devil - 100
-    - Narzugon - 125
-    - Erinyes? - 150
-    - Bone Devil? - 150
-    - Horned Devil - 175
-    - Gelugon? - 200
-    - Amnizu - 200
-    - Pit Fiend? - 300
-
-
-Fizzy orange potion
-Pinstripe bag (Bag of Devouring)
+- Free action, move 40 ft flying, 30 feet bright light 30 feet dim
+- Free action, Cast Dancing Lights
+- On attunement, gain the following effects:
+  - Reaction, perform shock attack (+4 to hit, reach 5', 1d8 lighting damage)
+  - Action, 1 charge, cast Faerie Fire (DC 15)
